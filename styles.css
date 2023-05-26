@@ -1,0 +1,14 @@
+.main {
+    background-color: rgb(202, 202, 202);
+}
+
+.heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 42px;
+    text-align: center;
+}
+
+.recipe-list {
+    font-family: cursive, sans-serif;
+    font-size: 20px;
+}
